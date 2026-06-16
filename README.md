@@ -46,14 +46,11 @@ https://harika-706.github.io/CodeAlpha_LanguageTranslator/
 <h2>Screenshots</h2>
 
 <p align="center">
-  <img src="screenshots/homepage.png" width="45%">
-  <img src="screenshots/translation.png" width="45%">
+  <img src="screenshots/homepage.png" alt="Home Page" width="350"/>
+  <img src="screenshots/translation.png" alt="Translation" width="350"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/transliteration.png" width="45%">
-  <img src="screenshots/speech.png" width="45%">
-</p>
-<p align="center">
-  <img src="screenshots/speech.png" width="600">
+  <img src="screenshots/transliteration.png" alt="Transliteration" width="350"/>
+  <img src="screenshots/speech.png" alt="Speech Feature" width="350"/>
 </p>
