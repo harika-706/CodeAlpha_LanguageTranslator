@@ -43,20 +43,24 @@ CodeAlpha Artificial Intelligence Internship
 
 https://harika-706.github.io/CodeAlpha_LanguageTranslator/
 
-## Screenshots
+<h2>Screenshots</h2>
 
-### Home Page
+<h3>Home Page</h3>
+<p align="center">
+  <img src="screenshots/homepage.png" width="600">
+</p>
 
-![Home Page](screenshots/homepage.png)
+<h3>Translation</h3>
+<p align="center">
+  <img src="screenshots/translation.png" width="600">
+</p>
 
-### Translation Example
+<h3>Transliteration</h3>
+<p align="center">
+  <img src="screenshots/transliteration.png" width="600">
+</p>
 
-![Translation](screenshots/translation.png)
-
-### Transliteration Feature
-
-![Transliteration](screenshots/transliteration.png)
-
-### Speech Feature
-
-![Speech](screenshots/speech.png)
+<h3>Speech Feature</h3>
+<p align="center">
+  <img src="screenshots/speech.png" width="600">
+</p>
