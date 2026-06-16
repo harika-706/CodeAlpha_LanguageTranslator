@@ -38,3 +38,7 @@ To develop an intelligent language translation tool capable of translating text 
 ## Internship
 
 CodeAlpha Artificial Intelligence Internship
+
+## 🔗 Live Demo
+
+https://harika-706.github.io/CodeAlpha_LanguageTranslator/
