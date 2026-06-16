@@ -42,3 +42,21 @@ CodeAlpha Artificial Intelligence Internship
 ## 🔗 Live Demo
 
 https://harika-706.github.io/CodeAlpha_LanguageTranslator/
+
+## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/homepage.png)
+
+### Translation Example
+
+![Translation](screenshots/translation.png)
+
+### Transliteration Feature
+
+![Transliteration](screenshots/transliteration.png)
+
+### Speech Feature
+
+![Speech](screenshots/speech.png)
